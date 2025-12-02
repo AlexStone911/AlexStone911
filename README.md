@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">A Full Stack and Certified SFCC B2C Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **several pet projects**
-
-- 🌱 I’m currently deeply learning **Vue.js, Node.js, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AlexStone911](https://github.com/AlexStone911)
-
 - 📫 How to reach me **podgorodeczkij19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
